@@ -1,2 +1,2 @@
-# semester-2
+# 🏫 Year 1: Semester 2
 Second semester of my degree!
