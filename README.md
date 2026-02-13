@@ -2,3 +2,5 @@
 Second semester of my degree!
 
 ## 📚 List of Courses
+| Code | Course | Lecturer | Section
+| :--- | :--- | :-- | :---
