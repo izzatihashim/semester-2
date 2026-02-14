@@ -2,6 +2,6 @@
 
 ## 👩‍🏫 About this course
 **Lecturer:**  <br>
-**Section:**  <br>
+**Section:** 02 <br>
 
 ## 📚 Topics covered in this course
