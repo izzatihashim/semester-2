@@ -1,1 +1,1 @@
-# SECR1033 Computer Organization & Architecture
+# 👩🏻‍💻 SECR1033 Computer Organization & Architecture
