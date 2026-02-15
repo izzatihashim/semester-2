@@ -3,3 +3,5 @@
 ## 👩‍🏫 About this course
 **Lecturer:**  <br>
 **Section:** 09 <br>
+
+## 📚 Topics covered in this course
