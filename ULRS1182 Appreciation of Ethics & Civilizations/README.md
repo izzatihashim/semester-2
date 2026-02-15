@@ -2,4 +2,4 @@
 
 ## 👩‍🏫 About this course
 **Lecturer:**  <br>
-**Section:**  <br>
+**Section:** 09 <br>
