@@ -4,7 +4,7 @@ Second semester of my degree!
 ## 📚 List of Courses
 | Code | Course | Lecturer | Section
 | :--- | :--- | :-- | :---
-| SECI1143 | Probability & Statistical Data Analysis | | 02
+| SECI1143 | Probability & Statistical Data Analysis | Dr. Noorfa Haszlinna binti Mustaffa | 02
 | SECJ1023 | Programming Technique II | | 03
 | SECR1033 | Computer Organization & Architecture | | 02
 | SECP2613 | System Analysis & Design | | 01
