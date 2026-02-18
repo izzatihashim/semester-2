@@ -5,7 +5,7 @@ Second semester of my degree!
 | Code | Course | Lecturer | Section
 | :--- | :--- | :-- | :---
 | SECI1143 | Probability & Statistical Data Analysis | Dr. Noorfa Haszlinna binti Mustaffa | 02
-| SECJ1023 | Programming Technique II | | 03
+| SECJ1023 | Programming Technique II | Ms. Lizawati binti Mi Yusuf | 03
 | SECR1033 | Computer Organization & Architecture | | 02
 | SECP2613 | System Analysis & Design | | 01
 | SECV2113 | Human Computer Interaction | | 01
