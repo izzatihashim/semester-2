@@ -1,5 +1,5 @@
 # 💻 SECJ1023 Programming Technique II
-**Language:**
+**Language:** <br>
 **IDE:**  <br>
 
 ## 👩‍🏫 About this course
