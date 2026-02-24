@@ -7,3 +7,4 @@
 ## 📚 Topics covered in this course
 
 ## 📝 Method of assesment
+| Name | Type | Status
