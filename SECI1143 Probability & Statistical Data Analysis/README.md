@@ -5,6 +5,7 @@
 **Section:** 02 <br>
 
 ## 📚 Topics covered in this course
+Chapter 1: 
 
 ## 📝 Method of assesment
 | Name | Type | Status
