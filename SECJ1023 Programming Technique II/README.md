@@ -10,3 +10,4 @@
 
 ## 📝 Method of assesment
 | Name | Type | Status
+| :--- | :--- | :---
