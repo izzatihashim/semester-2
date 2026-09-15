@@ -9,4 +9,4 @@ Second semester of my degree!
 | SECR1033 | Computer Organization & Architecture | Ms. Rashidah binti Kadir | 02
 | SECP2613 | System Analysis & Design | Dr. Aryati binti Bakri | 01
 | SECV2113 | Human Computer Interaction | Dr. Nur Zuraifah Syazrah binti Othman | 01
-| ULRS1182 | Appreciation of Ethics & Civilizations | | 09
+| ULRS1182 | Appreciation of Ethics & Civilizations | Dr. Fadilah binti Zaini | 09
