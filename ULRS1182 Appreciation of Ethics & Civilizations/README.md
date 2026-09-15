@@ -4,8 +4,9 @@
 **Lecturer:**  <br>
 **Section:** 09 <br>
 
-## 📚 Topics covered in this course
-
 ## 📝 Method of assesment
 | Name | Type | Status
 | :--- | :--- | :---
+| Essay Writing | Grouping | Done
+| Video Assignment | Grouping | Done
+| Final Exam | Individual | Done
