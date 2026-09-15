@@ -28,3 +28,4 @@ Chapter 9: Advanced Features <br>
 | Project 2 (Design) | Grouping | Done
 | Project 3 (Interim) | Grouping | Done
 | Project 4 (Final) | Grouping | Done
+| Final Exam | Individual | Done
