@@ -18,3 +18,12 @@ Chapter 9: Data Analysis <br>
 ## 📝 Method of assesment
 | Name | Type | Status
 | :--- | :--- | :---
+| Quiz 1 | Individual | Done
+| Quiz 2 | Individual | Done
+| Individual Assignment | Individual | Done
+| Project 1 | Grouping | Done
+| Project 2 | Grouping | Done
+| Project 3 | Grouping | Done
+| Project 4 | Grouping | Done
+| Group Assignment | Grouping | Done
+| Final Exam | Individual | Done
