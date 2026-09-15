@@ -26,3 +26,4 @@ Chapter 8: Analysis of Variance (ANOVA) <br>
 | Assignment 4 | Grouping | Done
 | Project 1 | Grouping | Done
 | Project 2 | Grouping | Done
+| Final Exam | Individual | Done
