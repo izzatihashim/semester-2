@@ -1,7 +1,7 @@
 # 📂 ULRS1182 Appreciation of Ethics & Civilizations
 
 ## 👩‍🏫 About this course
-**Lecturer:**  <br>
+**Lecturer:** Dr. Fadilah binti Zaini <br>
 **Section:** 09 <br>
 
 ## 📝 Method of assesment
