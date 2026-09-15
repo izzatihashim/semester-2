@@ -17,4 +17,13 @@ Chapter 8: Performance Measurements and Analysis <br>
 ## 📝 Method of assesment
 | Name | Type | Status
 | :--- | :--- | :---
-| Assignment 1 | Grouping | :---
+| Assignment 1 | Grouping | Done
+| Assignment 2 | Grouping | Done
+| Assignment 3 | Grouping | Done
+| Assignment 4 | Grouping | Done
+| Test | Individual | Done
+| Lab 1 | Grouping | Done
+| Lab 2 | Grouping | Done
+| Lab 3 | Grouping | Done
+| Project | Grouping | Done
+| Final Exam | Individual | Done
