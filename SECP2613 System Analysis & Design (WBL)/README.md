@@ -21,4 +21,4 @@ Chapter 6: System Implementation <br>
 | Project 1 | Grouping | Done
 | Project 2 | Grouping | Done
 | Project 3 | Grouping | Done
-
+| Final Exam | Individual | Done
