@@ -17,3 +17,12 @@ Chapter 8: Analysis of Variance (ANOVA) <br>
 ## 📝 Method of assesment
 | Name | Type | Status
 | :--- | :--- | :---
+| Quiz 1 | Individual | Done
+| Quiz 2 | Individual | Done
+| Test | Individual | Done
+| Assignment 1 | Grouping | Done
+| Assignment 2 | Grouping | Done
+| Assignment 3 | Grouping | Done
+| Assignment 4 | Grouping | Done
+| Project 1 | Grouping | Done
+| Project 2 | Grouping | Done
